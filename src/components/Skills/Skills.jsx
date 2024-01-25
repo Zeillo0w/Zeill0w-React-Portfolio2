@@ -7,7 +7,7 @@ import Skillcard from "./Skillcard";
 const Skills = () => {
     return (
         <section className="skills-container">
-            <h6 style="font-size:4rem;">Site en cours de developpement !</h6>
+            <h5>Site en cours de developpement !</h5>
             <h5>Technical Proficiency</h5>
 
             <div className="skills-content">
