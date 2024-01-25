@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zeill0w-React-Portfolio/static/css/main.0ab50401.css",
+    "main.js": "/Zeill0w-React-Portfolio/static/js/main.95b253ec.js",
+    "static/js/787.8fe76672.chunk.js": "/Zeill0w-React-Portfolio/static/js/787.8fe76672.chunk.js",
+    "index.html": "/Zeill0w-React-Portfolio/index.html",
+    "main.0ab50401.css.map": "/Zeill0w-React-Portfolio/static/css/main.0ab50401.css.map",
+    "main.95b253ec.js.map": "/Zeill0w-React-Portfolio/static/js/main.95b253ec.js.map",
+    "787.8fe76672.chunk.js.map": "/Zeill0w-React-Portfolio/static/js/787.8fe76672.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ab50401.css",
+    "static/js/main.95b253ec.js"
+  ]
+}
